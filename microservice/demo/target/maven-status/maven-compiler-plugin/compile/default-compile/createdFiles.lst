@@ -1,0 +1,6 @@
+com\example\demo\model\Movie.class
+com\example\demo\DemoApplication.class
+com\example\demo\model\CatalogItem.class
+com\example\demo\model\Rating.class
+com\example\demo\resource\MovieCatalogResource.class
+com\example\demo\model\UserRating.class
